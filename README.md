@@ -17,3 +17,7 @@ Ici, je note ce que j'apprends en vibe coding.
 ## Ma page
 
 [Voir ma page en ligne](https://github.com/MediaDesignLab-EDNA/vibe-coding-home)
+
+## Sommaire
+
+- [Séance 1](seance-1.md)
